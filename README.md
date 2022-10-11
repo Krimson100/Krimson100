@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krimson100
 - I am currently a Computer Science student 
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Software Development and Website Development
+- 🌱 I’m currently learning Java, HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on beginner portfolio projects
 - 📫 How to reach me : @k.r.i.m.s.o.n on instagram
 
